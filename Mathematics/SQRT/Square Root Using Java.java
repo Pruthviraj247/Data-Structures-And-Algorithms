@@ -7,6 +7,6 @@ public class SQRT {
 
         System.out.println("Enter The Number");
         int Num = New.nextInt();
-        System.out.println("Your Square Root Is: "+Math.sqrt(Num));
+        System.out.println("Your Square Root of "+Num+" Is: "+Math.sqrt(Num));
     }
 }
